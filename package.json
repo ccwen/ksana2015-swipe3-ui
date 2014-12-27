@@ -1,0 +1,23 @@
+{
+  "name": "ksana2015-swipe3-ui",
+  "version": "1.0.0",
+  "description": "3 screen swipe user interface for ksana2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksanaforge/ksana2015-swipe3-ui"
+  },
+  "keywords": [
+    "swipe",
+    "ui"
+  ],
+  "author": "yapcheahshen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksanaforge/ksana2015-swipe3-ui/issues"
+  },
+  "homepage": "https://github.com/ksanaforge/ksana2015-swipe3-ui"
+}
