@@ -1,5 +1,5 @@
 module.exports={
-  main:require("./main.jsx"),
-  resultlist:require("./resultlist.jsx"),
-  showtext:require("./showtext.jsx")
+  main:require("./main"),
+  resultlist:require("./resultlist"),
+  showtext:require("./showtext")
 }
